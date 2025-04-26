@@ -31,9 +31,7 @@
 
 ## CIRCUIT DIAGRAM
 ![Screenshot 2025-04-25 120650](https://github.com/user-attachments/assets/cbc3cc3f-48c7-4bde-bb4b-080b6a2dec9f)
-
 ![Screenshot 2025-04-25 120454](https://github.com/user-attachments/assets/c3505563-e1a5-4f6a-a941-2ad0ea7aa9db)
-
 ![Screenshot 2025-04-25 120546](https://github.com/user-attachments/assets/6b589518-28e8-413f-af76-610b5c744966)
 
 
