@@ -28,26 +28,20 @@
  5. Observe the waveforms at SINE 1, SINE 2 and MOD OUT. of CARRIER
  6. Connect PSK modulated signal MOD OUT to the PSK IN of the PSK DEMODULATOR.
  7. Observe various waveforms as mentioned below.
-
 ## CIRCUIT DIAGRAM
 ![Screenshot 2025-04-25 120650](https://github.com/user-attachments/assets/cbc3cc3f-48c7-4bde-bb4b-080b6a2dec9f)
 ![Screenshot 2025-04-25 120454](https://github.com/user-attachments/assets/c3505563-e1a5-4f6a-a941-2ad0ea7aa9db)
 ![Screenshot 2025-04-25 120546](https://github.com/user-attachments/assets/6b589518-28e8-413f-af76-610b5c744966)
-
-
 ## MODEL GRAPH
-![Screenshot 2025-04-25 151228](https://github.com/user-attachments/assets/8a07ec46-75d5-44ed-ae68-60b08c1e9870)
-![image](https://github.com/user-attachments/assets/f3b1e2c9-212a-43b8-a3c8-1c9876c77c4a)
-![image](https://github.com/user-attachments/assets/ccdf11f1-f03e-443a-9018-413c27d1003f)
+![Screenshot 2025-04-25 151228](https://github.com/user-attachments/assets/8a07ec46-75d5-44ed-ae68-60b08c1e9870)<br>
+![image](https://github.com/user-attachments/assets/f3b1e2c9-212a-43b8-a3c8-1c9876c77c4a)<br>
+![image](https://github.com/user-attachments/assets/ccdf11f1-f03e-443a-9018-413c27d1003f)<br>
 ## TABLE
 ![image](https://github.com/user-attachments/assets/2b44beea-146e-42d5-a9de-4ccfc5794508)
-
-
 ## OUTPUT GRAPHS
-![WhatsApp Image 2025-04-26 at 07 51 50_b77c4f0a](https://github.com/user-attachments/assets/139732b9-0ddd-4abb-9e50-6c019ea93e3b)
-![WhatsApp Image 2025-04-26 at 07 51 50_60e3843a](https://github.com/user-attachments/assets/78bb4cdf-fc06-4ffe-84df-fd50c6cfbf5d)
-![WhatsApp Image 2025-04-26 at 07 51 51_c02ada82](https://github.com/user-attachments/assets/146fd57b-af8e-4efe-b7cb-50a9071c6968)
-
+![WhatsApp Image 2025-04-26 at 07 51 50_b77c4f0a](https://github.com/user-attachments/assets/139732b9-0ddd-4abb-9e50-6c019ea93e3b)<br>
+![WhatsApp Image 2025-04-26 at 07 51 50_60e3843a](https://github.com/user-attachments/assets/78bb4cdf-fc06-4ffe-84df-fd50c6cfbf5d)<br>
+![WhatsApp Image 2025-04-26 at 07 51 51_c02ada82](https://github.com/user-attachments/assets/146fd57b-af8e-4efe-b7cb-50a9071c6968)<br>
 
 ## RESULT 
  The Study and Realize ASK,FSK and PSK Modulation and Demodulation using the Digital Modulation Trainer Kit was Successfully verified
